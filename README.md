@@ -126,7 +126,7 @@ The snapshot of the line chart **Outcomes vs Goals** based on the filtered Pivot
 
 ### Challenges and Difficulties Encountered
 
-* In this exercise learnt how to use the function YEARS(), COUNTSIFS(), SUM() and lookups from different sheet.
+* In this exercise learnt how to use the function YEARS(), COUNTIFS(), SUM() and lookups from different sheet.
 * Creating the pivot table with the filter option, rows, columns and values were straight forward. However, it was challenging to figure out how to display date in the row column and how to group/ungroup. After fiddling a bit figured out and was able to group based on the month.
 * Creating the line chart was straight forward. Had to fiddle around to change the color of the lines and remove the buttons from the chart.
 * Manually inserting all the values in the Number Successful/Failed/Canceled field was changeling and rewarding.
